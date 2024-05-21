@@ -15,7 +15,8 @@ Test application built with React, TypeScript, Redux, and React Router.
 
 # Project setup
 1. Clone the repository:
-- git clone <repository-url>
+- git clone https://github.com/eerikkodasma/erply.git
+- cd erply/
 2. run **npm install**
 
 # Run application
